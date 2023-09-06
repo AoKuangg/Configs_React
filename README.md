@@ -22,9 +22,28 @@ Vite is a local development server written by Evan You and used by default by Vu
 
 We choose this framework to work with, because is more flexible and eficient than others.
 
-## Installation
-Commands to install react with the framework vite   
-1.  
+## Installation  
+Use this command to install Vite and React:
+
+    npm create vite@latest
+
+1. In few moments we will see this:   
+![](./assets/consola.png)  
+In this part we will put the name of the project, when you finish puttingthe name press intro.
+
+2. Next you will see this:  
+![](./assets/consola2.png)   
+We select React and press intro again.
+
+3. Now we see:          
+![](./assets/consola3.png)   
+We select JavaScript, because that is the languaje we use for the backend.
+
+4. Finally, the project will be installed, and let you a base configs for the project, then you put the nex command ```npm i```  then the basic deppendencies for the proyect will be installed.
+
+
+
+
 
 
 
