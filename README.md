@@ -1,27 +1,40 @@
-# Документация по реагированию
- В этом репозитории вы сможете найти мою личную документацию по React.
+# React Documentation
+ In this repository, you will be able to find my personal documentation for React.
 
-## Реагировать
-#### Что такое React
-React — это бесплатная интерфейсная библиотека JavaScript с открытым исходным кодом для создания пользовательских интерфейсов на основе компонентов. Он поддерживается Meta и сообществом отдельных разработчиков и компаний. React можно использовать для разработки одностраничных, мобильных или серверных приложений с помощью таких фреймворков, как Next.js, Express, Vite и других.
+## React
+#### What is React
+React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js, Express, Vite and others.
 
-React позволяет создавать пользовательские интерфейсы из отдельных частей, называемых компонентами. Создайте свои собственные компоненты React, такие как Thumbnail, LikeButton и Video. Затем объедините их в целые экраны, страницы и приложения.
-Независимо от того, работаете ли вы самостоятельно или с тысячами других разработчиков, использование React ощущается одинаково. Он предназначен для того, чтобы вы могли легко комбинировать компоненты, написанные независимыми людьми, командами и организациями.
+React lets you build user interfaces out of individual pieces called components. Create your own React components like Thumbnail, LikeButton, and Video. Then combine them into entire screens, pages, and apps.
+Whether you work on your own or with thousands of other developers, using React feels the same. It is designed to let you seamlessly combine components written by independent people, teams, and organizations.
 
-#### Написание компонентов с помощью кода и разметки
-Компоненты React — это функции JavaScript. Хотите показать некоторый контент условно? Используйте оператор if. Отображение списка? Попробуйте карту массива(). Изучение React — это изучение программирования.
+#### Write components with code and markup
+React components are JavaScript functions. Want to show some content conditionally? Use an if statement. Displaying a list? Try array map(). Learning React is learning programming.
 
-Этот синтаксис разметки называется JSX. Это расширение синтаксиса JavaScript, популяризированное React. Размещение разметки JSX рядом с соответствующей логикой рендеринга упрощает создание, поддержку и удаление компонентов React.
+This markup syntax is called JSX. It is a JavaScript syntax extension popularized by React. Putting JSX markup close to related rendering logic makes React components easy to create, maintain, and delete.
 
 
 
-Вот почему React — это больше, чем библиотека, архитектура или даже экосистема. React — это сообщество. Это место, где вы можете попросить о помощи, найти возможности и встретить новых друзей. Вы встретитесь как с разработчиками и дизайнерами, новичками и экспертами, исследователями и художниками, преподавателями и студентами. Наш опыт может быть очень разным, но React позволяет нам всем вместе создавать пользовательские интерфейсы.
+This is why React is more than a library, an architecture, or even an ecosystem. React is a community. It’s a place where you can ask for help, find opportunities, and meet new friends. You will meet both developers and designers, beginners and experts, researchers and artists, teachers and students. Our backgrounds may be very different, but React lets us all create user interfaces together.
 
-## Вите
-Vite — это локальный сервер разработки, написанный Эваном Ю и используемый по умолчанию Vue и шаблонами проектов React. Он поддерживает TypeScript и JSX. Vite — это независимый от платформы интерфейсный инструмент для быстрого создания веб-приложений, который решает некоторые распространенные проблемы разработчиков.
+## Vite
+Vite is a local development server written by Evan You and used by default by Vue and for React project templates. It has support for TypeScript and JSX. Vite is a platform-agnostic frontend tool for building web applications quickly and solves some common developer headaches.
 
-Мы выбрали эту структуру для работы, поскольку она более гибкая и эффективная, чем другие.
+We choose this framework to work with, because is more flexible and eficient than others.
 
-## Монтаж
-Команды для установки реагируют на фреймворк vite.
-1.
+## Installation
+Commands to install react with the framework vite   
+1.  
+
+
+
+
+
+
+## Bibliography
+[React](https://react.dev/)   
+[Vite](https://vitejs.dev/)
+
+
+## Author:
+[Camilo](https://github.com/AoKuangg)
