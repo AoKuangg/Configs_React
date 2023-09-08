@@ -1,7 +1,7 @@
 export default function Table() {
   return (
     <>
-        <div>Zzz</div>
+        <h1>Zzz</h1>
         <div>Table</div>
     </>
   )
